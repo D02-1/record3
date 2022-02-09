@@ -47,4 +47,3 @@ Unser Kunde, der Musikladen, möchte gern Produkte aktualisieren und aus dem Ang
 
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 
-- Verwende das Paket http-errors um die Fehler eleganter zu schreiben: https://www.npmjs.com/package/http-errors
